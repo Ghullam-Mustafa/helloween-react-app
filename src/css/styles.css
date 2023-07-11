@@ -116,7 +116,7 @@ button{
   font-size: var(--normal-font-size);
 }
 
-/*=============== REUSABLE CSS CLASSES ===============*/
+/*=============== REUSABLE CSS classES ===============*/
 .section{
   padding: 4.5rem 0 2rem;
 }
@@ -325,7 +325,7 @@ button{
   justify-content: space-between;
 }
 
-/* Swiper Class */
+/* Swiper class */
 .swiper-pagination{
   position: initial;
   margin-top: var(--mb-1);
