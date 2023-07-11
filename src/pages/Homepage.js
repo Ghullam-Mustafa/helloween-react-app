@@ -7,6 +7,7 @@ import CardImg2 from '../assets/img/category2-img.png'
 import CardImg3 from '../assets/img/category3-img.png'
 import AboutSection from '../components/aboutSection/AboutSection'
 import TrickSection from '../components/trickSection/TrickSection'
+import Discount from '../components/discount/Discount'
 
 function HomePage(props) {
     return (
@@ -26,6 +27,7 @@ function HomePage(props) {
 
             <AboutSection/>
             <TrickSection/>
+            <Discount />
             
             
         </div>
