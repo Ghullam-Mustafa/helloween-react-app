@@ -9,6 +9,7 @@ import AboutSection from '../components/aboutSection/AboutSection'
 import TrickSection from '../components/trickSection/TrickSection'
 import Discount from '../components/discount/Discount'
 import NewArrivals from '../components/newArrivals/NewArrivals'
+import OurNewsletter from '../components/ourNewsletter/OurNewsletter'
 
 function HomePage(props) {
     return (
@@ -30,6 +31,7 @@ function HomePage(props) {
             <TrickSection/>
             <Discount />
             <NewArrivals />
+            <OurNewsletter/>
             
             
         </div>
