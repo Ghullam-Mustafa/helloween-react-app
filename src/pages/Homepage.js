@@ -8,6 +8,7 @@ import CardImg3 from '../assets/img/category3-img.png'
 import AboutSection from '../components/aboutSection/AboutSection'
 import TrickSection from '../components/trickSection/TrickSection'
 import Discount from '../components/discount/Discount'
+import NewArrivals from '../components/newArrivals/NewArrivals'
 
 function HomePage(props) {
     return (
@@ -28,6 +29,7 @@ function HomePage(props) {
             <AboutSection/>
             <TrickSection/>
             <Discount />
+            <NewArrivals />
             
             
         </div>
