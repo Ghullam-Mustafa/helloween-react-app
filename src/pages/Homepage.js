@@ -1,7 +1,8 @@
-import Navbar from '../components/navbar/Navbar'
-import Header from '../components/header/Header'
-import MainCard from '../components/mainCard/MainCard'
-
+import React from 'react';
+import Navbar from '../components/navbar/Navbar';
+import Header from '../components/header/Header';
+import MainCard from '../components/mainCard/MainCard';
+import Footer from '../components/Footer/Footer';
 import CardImg1 from '../assets/img/category1-img.png'
 import CardImg2 from '../assets/img/category2-img.png'
 import CardImg3 from '../assets/img/category3-img.png'
@@ -32,7 +33,7 @@ function HomePage(props) {
             <Discount />
             <NewArrivals />
             <OurNewsletter/>
-            
+           <Footer/>
             
         </div>
     )
