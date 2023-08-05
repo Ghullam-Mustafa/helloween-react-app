@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from '../components/navbar/Navbar';
+import Navbar from '../components/navbar/Navbar'; 
 import Header from '../components/header/Header';
 import MainCard from '../components/mainCard/MainCard';
 import Footer from '../components/Footer/Footer';
